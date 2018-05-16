@@ -3,4 +3,4 @@ x=int(raw_int())
 if(x in d):
  print(vowel)
 else:
- print(constant)
+ print(consonant)
