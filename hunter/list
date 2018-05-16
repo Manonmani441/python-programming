@@ -1,0 +1,5 @@
+l=['man','mki']
+n=[]
+for x in l
+n=x.upper()
+print(n)
