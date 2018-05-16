@@ -1,5 +1,5 @@
 d=['a','e','i','o','A','E','I','O','U']
-x=str(raw_int())
+x=str(raw_intput())
 if(x in d):
  print(vowel)
 else:
